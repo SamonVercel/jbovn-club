@@ -18,3 +18,7 @@ header {
 .list-circle li {
   list-style: circle;
 }
+
+nav {
+  z-index: 5;
+}
